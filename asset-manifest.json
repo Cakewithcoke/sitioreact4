@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Cakewithcoke/sitioreact4/static/css/main.a617e044.chunk.css",
+    "main.js": "/Cakewithcoke/sitioreact4/static/js/main.dfdf6034.chunk.js",
+    "main.js.map": "/Cakewithcoke/sitioreact4/static/js/main.dfdf6034.chunk.js.map",
+    "runtime-main.js": "/Cakewithcoke/sitioreact4/static/js/runtime-main.e43bdd14.js",
+    "runtime-main.js.map": "/Cakewithcoke/sitioreact4/static/js/runtime-main.e43bdd14.js.map",
+    "static/css/2.9082872e.chunk.css": "/Cakewithcoke/sitioreact4/static/css/2.9082872e.chunk.css",
+    "static/js/2.8f68141f.chunk.js": "/Cakewithcoke/sitioreact4/static/js/2.8f68141f.chunk.js",
+    "static/js/2.8f68141f.chunk.js.map": "/Cakewithcoke/sitioreact4/static/js/2.8f68141f.chunk.js.map",
+    "static/js/3.43488749.chunk.js": "/Cakewithcoke/sitioreact4/static/js/3.43488749.chunk.js",
+    "static/js/3.43488749.chunk.js.map": "/Cakewithcoke/sitioreact4/static/js/3.43488749.chunk.js.map",
+    "index.html": "/Cakewithcoke/sitioreact4/index.html",
+    "static/css/2.9082872e.chunk.css.map": "/Cakewithcoke/sitioreact4/static/css/2.9082872e.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "/Cakewithcoke/sitioreact4/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.8f68141f.chunk.js.LICENSE.txt": "/Cakewithcoke/sitioreact4/static/js/2.8f68141f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e43bdd14.js",
+    "static/css/2.9082872e.chunk.css",
+    "static/js/2.8f68141f.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.dfdf6034.chunk.js"
+  ]
+}
